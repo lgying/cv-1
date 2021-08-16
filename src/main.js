@@ -1,7 +1,7 @@
 let html = document.querySelector("#html");
 let style = document.querySelector("#style");
 let string = `
-/*你好，我是一名前端新人
+/*你好，我是小艾
 *接下来我演示一下我的前端功底
 *首先我要准备一个div
 */
